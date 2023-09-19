@@ -3,7 +3,7 @@
 ## 💫 About me:
 - 🎓 Bachelor's degree in **Computer Science** from <a href="https://www3.unicentro.br/">Unicentro</a>.
 - 🔭 Specialist in **Mobile and Web Development** from <a href="https://www.guairaca.com.br/">UniGuairacá</a>.
-- 🧬 Master of Science in Nanoscience and Bioscience from <a href="https://www3.unicentro.br/ppgnb/">PPGNB - Unicentro</a>.
+- 🧬 Master of Science in **Nanoscience and Bioscience** from <a href="https://www3.unicentro.br/ppgnb/">PPGNB - Unicentro</a>.
 - 🌱 Studying **Laravel** and **Vue.js**.
 
 ## 🚀 My Skills:
